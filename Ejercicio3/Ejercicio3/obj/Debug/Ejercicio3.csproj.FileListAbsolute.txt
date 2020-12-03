@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\PC\source\repos\Serv\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\PC\Documents\GitHub\Serv.Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
